@@ -199,12 +199,12 @@
 	],
 	"Addons": [{
       "id":1,
-      "nama_add":"Adventure Time Addon UPDATE",
-      "add_url":"https://ia801406.us.archive.org/6/items/benlien/Ben10%20Add-on%20V3.zip",
-      "addB_url":"https://ia801406.us.archive.org/6/items/benlien/B10%20Behavior%20Pack.mcpack",
-      "addR_url":"https://ia801406.us.archive.org/6/items/benlien/B10%20Resource%20Pack.mcpack",
-      "view_add":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon-v30-new-aliens-and-villains-update-11640_10.png",
-      "des_add":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon-v30-new-aliens-and-villains-update-11640_10.png"
+      "nama_add":"Adventure Time MOD",
+      "add_url":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/ATmodV2.0.zip",
+      "addB_url":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/ATbehavior.mcpack",
+      "addR_url":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/ATresource.mcpack",
+      "view_add":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/adventuretimemod.JPG",
+      "des_add":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/adventuretimemod.JPG"
     },
     {
       "id":2,
@@ -353,10 +353,10 @@
 	],
 	"Maps": [{
       "id":1,
-      "nama_map":"Adventure Time Maps",
-      "map_url":"https://ia801406.us.archive.org/6/items/benlien/Ben10Maps.zip",
-      "view_map":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon_35.png",
-      "des_map":"https://my.mcpedl.com/storage/addons/2479/images/ben-10-addon_35.png"
+      "nama_map":"Adventure Time House",
+      "map_url":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/Adventure%20Time%20House-1.0.0.zip",
+      "view_map":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/adventuretimehouse.JPG",
+      "des_map":"https://raw.githubusercontent.com/bro-cell/adventuretime/main/adventuretimehouse.JPG"
     },
 	{
 			"id": 2,
@@ -367,10 +367,10 @@
 		},
 		{
 			"id": 3,
-			"nama_map": "Game Piggy Mod Infection",
-			"map_url": "https://ia601501.us.archive.org/17/items/piggy1/Piggyhorror.zip",
-			"view_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png",
-			"des_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png"
+			"nama_map": "Adventure Time Survival Map",
+			"map_url": "https://raw.githubusercontent.com/bro-cell/adventuretime/main/Adventure%20Time%20Survival%20Map.zip",
+			"view_map": "https://raw.githubusercontent.com/bro-cell/adventuretime/main/ATsurvival.JPG",
+			"des_map": "https://raw.githubusercontent.com/bro-cell/adventuretime/main/ATsurvival.JPG"
 		},
 		{
 			"id": 4,
