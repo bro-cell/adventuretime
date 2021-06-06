@@ -8,14 +8,38 @@
 		"admob_inter": "",
 		"admob_native": "",
 		"interval": 3,
-		"fan_inter": "IMG_16_9_LINK#498907474678090_498908044678033",
-		"fan_banner": "IMG_16_9_LINK#498907474678090_498907661344738",
-		"fan_native": "IMG_16_9_LINK#498907474678090_498908314678006",
+		"fan_inter": "498907474678090_498908044678033",
+		"fan_banner": "498907474678090_498907661344738",
+		"fan_native": "498907474678090_498908314678006",
 		"startappid": ""
 	}],
 	"More": [
+    {
+      "id":1,
+      "judul":"ADS Mod Freddy",
+      "image":"https://play-lh.googleusercontent.com/AN1DdSq2GFltoKtjn-f7xTVGm_g3-potHnlZrOt2f56_Gx1AmKCmtWux15IAJuu5xPI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.jangkhup.modanimatronic.fredyfivepack"
+    },
+    {
+      "id":2,
+      "judul":"ADS Mod BEN",
+      "image":"https://play-lh.googleusercontent.com/xeIXczq9DU5wo9RFWdlOBeQKuTKQDo9byAL4sIAzuWdBghT0NRqr8iH2rJMhxollhAzt=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.modbenten.aliensskins.fullmultiverse"
+    },
+    {
+      "id":3,
+      "judul":"ADS Mod Free Fire",
+      "image":"https://play-lh.googleusercontent.com/on7pTC_wKFYzTQL4r1BemD7EhxFTemipev8t8r3WxdGMuIggiriOjUc_DFQm5KPaKx4=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.bondperl.freeffmod.fireskinpack"
+    },
+    {
+      "id":4,
+      "judul":"ADS Mod Lady",
+      "image":"https://play-lh.googleusercontent.com/2aFJ2E_ryazij661Li0t19xr6GbQ_S4MQ_SXbLMjb0nb9oJ17XB3k0WdqeMM9t2ov7o=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.xlomensci.modladybugskins.packnoirmaps"
+    }
 
-	],
+  ],
 	"Skin": [{
 			"id": 1,
 			"nama_skin": "Adventure Time Pack 1",
